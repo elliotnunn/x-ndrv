@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>ATIDriver</string>
+	<key>CFBundleGetInfoString</key>
+	<string>ATIDriver 1.5.36.25 (3.0.5f1)</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.driver.ndrv.ATIDriver</string>
+	<key>CFBundleName</key>
+	<string>ATIDriver</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.5.36</string>
+	<key>CFBundleVersion</key>
+	<string>5.3.6</string>
+	<key>IONDRVFileMatching</key>
+	<dict>
+		<key>IONameMatch</key>
+		<string>ATY,*</string>
+	</dict>
+</dict>
+</plist>

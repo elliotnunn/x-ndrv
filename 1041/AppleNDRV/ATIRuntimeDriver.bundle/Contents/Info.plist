@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>ATIRuntimeDriver</string>
+	<key>CFBundleGetInfoString</key>
+	<string>ATIRuntimeDriver 1.4.2.9 (1.1.6f2). © 1999-2003 ATI Technologies Inc. All Rights Reserved. </string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.driver.ndrv.ATIRuntimeDriver</string>
+	<key>CFBundleName</key>
+	<string>ATIRuntimeDriver</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.4.2</string>
+	<key>CFBundleVersion</key>
+	<string>4.0.2</string>
+	<key>IONDRVFileMatching</key>
+	<dict>
+		<key>IONameMatch</key>
+		<string>ATY,*</string>
+	</dict>
+</dict>
+</plist>

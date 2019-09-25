@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="0.9">
+<dict>
+	<key>ATY,Version</key>
+	<string>2.3.6f2</string>
+        <key>IONDRVList</key>
+	<string>Yes</string>
+</dict>
+</plist>

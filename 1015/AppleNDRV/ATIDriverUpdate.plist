@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="0.9">
+<dict>
+	<key>ATY,Version</key>
+	<string>2.1.3f1</string>
+        <key>IONDRVList</key>
+        <array>
+                <string>ATY,Rage128P2ks</string>
+                <string>ATY,Rage128k</string>
+                <string>ATY,Rage128Pk</string>
+                <string>ATY,Rage128Pd</string>
+                <string>ATY,Rage128Ps</string>
+                <string>ATY,Rage128s</string>
+                <string>ATY,Rage128y</string>
+                <string>ATY,Rage6ag</string>
+                <string>ATY,Rage6p</string>
+                <string>ATY,RageIIC_C</string>
+                <string>ATY,RageLTPro</string>
+                <string>ATY,RageM3p</string>
+                <string>ATY,RageM3p1</string>
+                <string>ATY,RageM3p12</string>
+                <string>ATY,RageM3p29s</string>
+                <string>ATY,RageM_Lp</string>
+                <string>ATY,Stone</string>
+                <string>ATY,mach64</string>
+                <string>ATY,mach64_3DU</string>
+                <string>ATY,mach64_3DUPro</string>
+                <string>ATY,264LTPro</string>
+                <string>ATY,264LT-G</string>
+                <string>ATY,264GT-B</string>
+                <string>ATY,264VT</string>
+                <string>ATY,Fall</string>
+                <string>ATY,Crown</string>
+        </array>
+</dict>
+</plist>

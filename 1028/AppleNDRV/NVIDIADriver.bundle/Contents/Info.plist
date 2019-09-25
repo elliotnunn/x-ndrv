@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>NVIDIADriver</string>
+	<key>CFBundleGetInfoString</key>
+	<string>NVIDIADriver 1.2.26.32 (4.7.0f5)</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.driver.ndrv.NVIDIADriver</string>
+	<key>CFBundleName</key>
+	<string>NVIDIA NDRV</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2.26</string>
+	<key>CFBundleVersion</key>
+	<string>2.2.6</string>
+	<key>IONDRVFileMatching</key>
+	<dict>
+		<key>IONameMatch</key>
+		<string>NVDA,*</string>
+	</dict>
+</dict>
+</plist>

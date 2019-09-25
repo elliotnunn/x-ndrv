@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                                                                                
+                                                                                 
+                                                                                           <!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+                                                                                              <plist version="0.9">
+                                                                                              <dict>
+                                                                                              	<key>IONDRVList</key>
+                                                                                              	<array>
+                                                                                              		<string>NVDA,NVMac</string>
+                                                                                              		<string>NVDA,Parent</string>
+                                                                                              		<string>NVDA,Display-A</string>
+                                                                                              		<string>NVDA,Display-B</string>
+                                                                                              	</array>
+                                                                                              	<key>NVDA,Version</key>
+	<string>4.0.3f1</string>
+                                                                                              </dict>
+                                                                                              </plist>
