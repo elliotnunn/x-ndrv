@@ -1,3 +1,5 @@
+../1000/AppleNDRV/control.ndrv #1/1
+../1010/AppleNDRV/control.ndrv #1/1
 ../1015/AppleNDRV/control.ndrv #1/1
 ../1021/AppleNDRV/control.ndrv #1/1
 ../1022/AppleNDRV/control.ndrv #1/1

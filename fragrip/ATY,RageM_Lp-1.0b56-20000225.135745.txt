@@ -1,3 +1,5 @@
+../1000/AppleNDRV/ATIDriverUpdate #10/20
+../1010/AppleNDRV/ATIDriverUpdate #10/24
 ../1015/AppleNDRV/ATIDriverUpdate #10/27
 ../1021/AppleNDRV/ATIDriverUpdate #10/29
 ../1022/AppleNDRV/ATIDriverUpdate #10/31
